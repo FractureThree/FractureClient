@@ -4,9 +4,9 @@ If you have to rework you keys for this I
 would suggest waiting until V7 when I release 
 a customization menu to change keybinds.
 
-R = AutoMace (HOLD)
-V = AutoCrystal (HOLD)
-X = Quick offhand Immediate Slot
-B = Creative (OP)
-N = Survival (OP)
+R = AutoMace (HOLD),
+V = AutoCrystal (HOLD),
+X = Quick offhand Immediate Slot,
+B = Creative (OP),
+N = Survival (OP),
 M = Spectator (OP)
