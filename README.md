@@ -10,3 +10,5 @@ X = Quick offhand Immediate Slot,
 B = Creative (OP),
 N = Survival (OP),
 M = Spectator (OP)
+
+FUNCTIONS IN EVERY MINECRAFT VERSION ON JAVA EDITION (unless there is a command rework in the future)
